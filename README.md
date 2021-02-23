@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://instagram.com/migueslima">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=WhatsApp&logoColor=white&labelColor=brightgreen" />
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=brightgreen" />
   </a>
   
    <a href="mailto:miguelsousalima@hotmail.com">
