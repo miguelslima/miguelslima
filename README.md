@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://instagram.com/migueslima">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-8134AF?style=flat&logo=instagram&logoColor=white" />
   </a>
   
   <a href="mailto:absolutmslima@gmail.com">
@@ -38,9 +38,9 @@
 </p>
 
 
-## Estudando
+### Estudando
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/angular%20-FF0000.svg?&style=flat&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin%20-bf40bf.svg?&style=flat&logo=kotlin&logoColor=white"/>
 </p>
