@@ -2,7 +2,7 @@
   Hi there 👋, I'm Miguel Lima</h1>
 </h1>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/miguelslima1986">
     <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
   </a>
@@ -15,13 +15,12 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   
-   <a href="mailto:miguelsousalima@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-red?style=flat&logo=hotmail&logoColor=white&labelColor=red" />
+  <a href="mailto:absolutmslima@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
   </a>
-  
-  <p align="right">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=miguelslima" alt="visitor badge" />
-  </p>
+
+  <img src="https://visitor-badge.glitch.me/badge?page_id=miguelslima" alt="visitor badge" />
+</p>
 
 
 ### Principais tecnologias e ferramentas
