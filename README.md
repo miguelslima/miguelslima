@@ -1,4 +1,6 @@
-
+<p align="center">
+  Hi there 👋, I'm Miguel Lima</h1>
+</p>
 <p>
   <a href="https://www.linkedin.com/in/miguelslima1986">
     <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
@@ -27,7 +29,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7D842?style=social&logo=javascript&logoColor=F7D842" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC?&style=social&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC?&style=social&logo=typescript&logoColor=black"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=social&logo=styled-components&logoColor=DB7093" />&nbsp;&nbsp;&nbsp;
