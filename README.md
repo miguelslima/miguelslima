@@ -27,14 +27,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7D842?style=social&logo=javascript&logoColor=F7D842" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/typescript-blue?&style=social&logo=typescript&logoColor=black"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/typescript-blue?&style=social&logo=typescript&logoColor=blue"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=social&logo=styled-components&logoColor=DB7093" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=social&logo=visual-studio-code&logoColor=007ACC" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git-red?&style=social&logo=git&logoColor=black"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git-red?&style=social&logo=git&logoColor=red"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=social&logo=github&logoColor=black"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js-green?&style=social&logo=node.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/node.js-green?&style=social&logo=node.js&logoColor=green"/>
 </p>
 
 
