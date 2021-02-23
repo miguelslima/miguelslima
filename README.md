@@ -42,8 +42,8 @@
 ## Estudando
 
 <p>
-  <img src="https://img.shields.io/badge/angular?&style=flat&logo=angular&logoColor=black"/>
-  <img src="https://img.shields.io/badge/kotlin?&style=flat&logo=kotlin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/angular%20-FF0000.svg?&style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin%20-bf40bf.svg?&style=flat&logo=kotlin&logoColor=white"/>
 </p>
 
 
