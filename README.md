@@ -1,6 +1,7 @@
-<p align="center">
+<h1 align="center">
   Hi there 👋, I'm Miguel Lima</h1>
-</p>
+</h1>
+
 <p>
   <a href="https://www.linkedin.com/in/miguelslima1986">
     <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
