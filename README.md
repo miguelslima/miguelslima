@@ -36,14 +36,14 @@ Desenvolvedor Front-end. Estudante de Sistemas de Informação, sou formado em D
   <img src="https://img.shields.io/badge/Bootstrap-F7D842?style=social&logo=bootstrap&logoColor=0275d8" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-F7D842?style=social&logo=html5&logoColor=ec6231" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-F7D842?style=social&logo=html5&logoColor=264de4" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/typescript-blue?&style=social&logo=typescript&logoColor=blue"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Typescript-blue?&style=social&logo=typescript&logoColor=blue"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=social&logo=styled-components&logoColor=DB7093" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=social&logo=visual-studio-code&logoColor=007ACC" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git-red?&style=social&logo=git&logoColor=red"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=social&logo=github&logoColor=black"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js-green?&style=social&logo=node.js&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Git-red?&style=social&logo=git&logoColor=red"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Github%20-%23121011.svg?&style=social&logo=github&logoColor=black"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-green?&style=social&logo=node.js&logoColor=green"/>
 </p>
 
 
