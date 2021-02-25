@@ -1,6 +1,12 @@
 <h1 align="center">
-  Hi there 👋, I'm Miguel Lima</h1>
+   Hi there 👋, I'm Miguel Lima.
 </h1>
+
+<p align="center">
+Desenvolvedor Front-end. Estudante de Sistemas de Informação, sou formado em Direito com Pós-graudação em Direito e Processo do Trabalho e pós-graduação em Auditoria Contábil. Concursado da Caixa Econômica Federal desde 2010. Praticante de Crossfit. Tenho paixão pela tecnologia e desde 2019 tenho estudado e praticado bastante a parte de Front-end Web e Mobile. Tenho vontade e sede pelo aprendizado e aprendi a nunca desistir dos meus sonhos.
+</p>
+
+<h3>Contatos</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguelslima1986">
@@ -27,6 +33,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7D842?style=social&logo=javascript&logoColor=F7D842" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-F7D842?style=social&logo=bootstrap&logoColor=0275d8" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-F7D842?style=social&logo=html5&logoColor=ec6231" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-F7D842?style=social&logo=html5&logoColor=264de4" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript-blue?&style=social&logo=typescript&logoColor=blue"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
@@ -42,6 +51,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/angular%20-FF0000.svg?&style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin%20-bf40bf.svg?&style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin%20-bf40bf.svg?&style=flat&logo=kotlin&logoColor=white"/>
 </p>
 
