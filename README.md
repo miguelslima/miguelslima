@@ -25,7 +25,8 @@ Desenvolvedor Front-end. Estudante de Sistemas de Informação, sou formado em D
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
   </a>
 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=miguelslima" alt="visitor badge" />
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=miguelslima.visitor-badge" alt="visitor badge" />
 </p>
 
 
